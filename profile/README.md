@@ -1,6 +1,4 @@
-# Welcome
-
-We are Wordplay, a community of researchers, educators, designers, developers, and other contributors who are working towards a vision of _justice-centered programming languages_. 
+Hello! We are **Wordplay**, a community of researchers, educators, designers, developers, and other contributors who are working towards a vision of **justice-centered programming languages**. 
 
 By justice, we mean programming languages that:
 
